@@ -16,7 +16,9 @@
 * Auto-Login seguro (Lembrar de mim).
 * Atualizador Automático (Auto-Updater).
 * Suporte a múltiplos idiomas (PT/EN).
+
 ## Versão 0.9.0 - Beta [20/06/2026]
+
 **⚙️ Funcionalidades**
 * Teste
 * Teste 2
@@ -38,6 +40,7 @@
 * Secure Auto-Login (Remember me).
 * Seamless Auto-Updater.
 * Multi-language support (EN/PT).
+
 ## Versão 0.9.0 - Beta [06/20/2026]
 
 **⚙️ Features**
