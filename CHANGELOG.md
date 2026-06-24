@@ -1,6 +1,6 @@
 # 🇧🇷 Português
-
-**Versão 1.0.0 - Lançamento Oficial [24/06/2026]**
+###########################################################
+## Versão 1.0.0 - Lançamento Oficial [24/06/2026]
 
 **🛡️ Segurança**
 * Nova proteção por Hardware (HWID).
@@ -15,12 +15,9 @@
 * Auto-Login seguro (Lembrar de mim).
 * Atualizador Automático (Auto-Updater).
 * Suporte a múltiplos idiomas (PT/EN).
-
 ###########################################################
-
 # 🇺🇸 English
-
-**Version 1.0.0 - Official Release [06/24/2026]**
+## Version 1.0.0 - Official Release [06/24/2026]
 
 **🛡️ Security**
 * New Hardware ID (HWID) lock system.
