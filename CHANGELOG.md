@@ -1,6 +1,6 @@
 # 🇧🇷 Português
 
-**Versão 1.0.0 - Lançamento Oficial**
+**Versão 1.0.0 - Lançamento Oficial [24/06/2026]**
 
 **🛡️ Segurança**
 * Nova proteção por Hardware (HWID).
@@ -20,7 +20,7 @@
 
 # 🇺🇸 English
 
-**Version 1.0.0 - Official Release**
+**Version 1.0.0 - Official Release [06/24/2026]**
 
 **🛡️ Security**
 * New Hardware ID (HWID) lock system.
