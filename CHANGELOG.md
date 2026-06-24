@@ -19,9 +19,13 @@
 
 ## Versão 0.9.0 - Beta [20/06/2026]
 
-**⚙️ Funcionalidades**
-* Teste
+**🛡️ Segurança**
+* Teste 1
 * Teste 2
+
+**⚙️ Funcionalidades**
+* Teste 3
+* Teste 4
 
 ###########################################################
 # 🇺🇸 English
@@ -44,8 +48,12 @@
 
 ## Versão 0.9.0 - Beta [06/20/2026]
 
-**⚙️ Features**
-* Test
+**🛡️ Security**
+* Test 1
 * Test 2
+
+**⚙️ Features**
+* Test 3
+* Test 4
 
 ###########################################################
