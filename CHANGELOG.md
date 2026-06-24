@@ -15,7 +15,7 @@
 * Auto-Login seguro (Lembrar de mim).
 * Atualizador Automático (Auto-Updater).
 * Suporte a múltiplos idiomas (PT/EN).
-* ###########################################################
+###########################################################
 # 🇺🇸 English
 ## Version 1.0.0 - Official Release [06/24/2026]
 
